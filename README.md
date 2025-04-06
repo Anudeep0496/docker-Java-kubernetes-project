@@ -24,7 +24,7 @@ To start the minikube:
 Go to kubernetes folder
 run the below commands
 
-To apply the service and deployment yaml of the services:
+To apply the service and deployment yaml of the services:<br>
 1)kubectl apply -f shopfront-service.yaml
 2)kubectl apply -f productcatalogue-service.yaml
 3)kubectl apply -f stockmanager-service.yaml --> this will not work because there is some pom depencides issues are present
