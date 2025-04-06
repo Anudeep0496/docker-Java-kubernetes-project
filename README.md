@@ -19,24 +19,24 @@ docker push anudeep0496/productcatalogue:v1
 
 Before starting the minikube make sure the docker is being up and running
 To start the minikube:
-minikube start
+1) minikube start
 
 Go to kubernetes folder
 run the below commands
 
 To apply the service and deployment yaml of the services:
-kubectl apply -f shopfront-service.yaml
-kubectl apply -f productcatalogue-service.yaml
-kubectl apply -f stockmanager-service.yaml --> this will not work because there is some pom depencides issues are present
+1)kubectl apply -f shopfront-service.yaml
+2)kubectl apply -f productcatalogue-service.yaml
+3)kubectl apply -f stockmanager-service.yaml --> this will not work because there is some pom depencides issues are present
 
 To delete the services
-kubectl apply -f stockmanager-service.yaml --force
-kubectl delete -f stockmanager-service.yaml
+1)kubectl apply -f stockmanager-service.yaml --force
+2)kubectl delete -f stockmanager-service.yaml
 
 To check the Endpoint Url of the service
-minikube service shopfront
-minikube service productcatalogue
+1)minikube service shopfront
+2)minikube service productcatalogue
 
 End point Url's will be:
-shopfront : http://127.0.0.1:55885/
-productcatalogue : http://127.0.0.1:56146/products
+1)shopfront : http://127.0.0.1:55885/
+2)productcatalogue : http://127.0.0.1:56146/products
