@@ -1,0 +1,9 @@
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\model\Product.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\services\dto\StockDTO.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\repo\ProductRepo.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\resources\ProductResource.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\ShopfrontApplication.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\services\ProductService.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\repo\StockRepo.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\services\dto\ProductDTO.java
+D:\docker-kubernetes\docker-Java-kubernetes-project\shopfront\src\main\java\uk\co\danielbryant\djshopping\shopfront\controllers\HomeController.java
