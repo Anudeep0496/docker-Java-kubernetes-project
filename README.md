@@ -40,3 +40,24 @@ To check the Endpoint Url of the service<br>
 End point Url's will be:<br>
 1)shopfront : http://127.0.0.1:55885/ <br>
 2)productcatalogue : http://127.0.0.1:56146/products <br>
+
+
+<H2> Git History Commands </H2>
+    git init <br>
+    git branch <br>
+    git add . <br>
+    git status <br>
+    git commit -m "Initial commit of docker-Java-kubernetes-project" <br>
+    git status <br>
+    git remote add https://github.com/Anudeep0496/docker-Java-kubernetes-project.git <br>
+    git push -u origin main <br>
+    git remote -v <br>
+    git remote remove origin <br>
+    git remote -v <br>
+    git remote add https://github.com/Anudeep0496/docker-Java-kubernetes-project.git <br>
+    git remote -v <br>
+    git init <br>
+    git remote -v <br>
+    git remote add origin https://github.com/Anudeep0496/docker-Java-kubernetes-project.git <br>
+    git remote -v <br>
+    git push -u origin main <br>
