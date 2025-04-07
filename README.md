@@ -12,9 +12,9 @@ after runnning the above commands a target folder will be created in which the s
 we are making this jar as a image and pushing to docker hub.
 docker build -t anudeep0496/shopfront:v1 .
 docker build -t anudeep0496/productcatalogue:v1 .
-3) This is image is being pushed to Docker hub.
-docker push anudeep0496/shopfront:v1
-docker push anudeep0496/productcatalogue:v1
+3) This is image is being pushed to Docker hub. <br>
+docker push anudeep0496/shopfront:v1 <br>
+docker push anudeep0496/productcatalogue:v1<br>
 4) This image is used in each and every kubernetes yaml files respectively.
 
 Before starting the minikube make sure the docker is being up and running
