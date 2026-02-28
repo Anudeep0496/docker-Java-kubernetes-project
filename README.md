@@ -1,8 +1,6 @@
 # docker-Java-kubernetes-project
 Deploying Java Applications with Docker and Kubernetes
 
-Credit: https://github.com/danielbryantuk/oreilly-docker-java-shopping/
-
 1) Go to Each Micro services like productcatalogue, shopfront, stockmanager
 2) As this is Maven repo we have to build the code and generate the jar or artifactory then after that using docker we are generating the image for the artifactory
 mvn clean install
